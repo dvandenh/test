@@ -2,11 +2,5 @@
 ## Some Stuff
 #version
 
-this
-is
-a 
-list
-
-Hoek here
-
+Dave VandenHoek - david.vandenhoek@gmail.com
 Clara Olson - clara.olson22@gmail.com
